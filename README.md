@@ -1,1 +1,1 @@
-![WIP](https://raw.githubusercontent.com/nawalauliahasanhunaifa/arsip-laporan-praktikum/main/assets/wip.png)
+![WIP](https://raw.githubusercontent.com/nawal-io/qr/main/assets/wipbaru.png)
