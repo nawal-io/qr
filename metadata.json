@@ -1,0 +1,6 @@
+{
+  "name": "qr-studio",
+  "description": "100% client-side, privacy-first, feature-rich QR Code Generator for the nawal-io web utility suite",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
